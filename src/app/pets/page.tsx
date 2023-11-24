@@ -38,7 +38,7 @@ export default function Page({
 
   return (
     <main>
-      <h1>Check out the pets!</h1>
+      <h2>Check out the pets!</h2>
       <div className="flex gap-4">
         <Link className="text-black" href="/pets?sortByAge=asc">
           Sort by ascending age
